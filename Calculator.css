@@ -9,7 +9,7 @@ html{
 }
 
 section{
-	background-image: url(Background.jpg);
+	background-image: url(https://raw.githubusercontent.com/adiadisucipto/Calculator/main/Background.jpg);
 	background-size: cover;
 	min-height: 100vh;
 	width: 100%;
